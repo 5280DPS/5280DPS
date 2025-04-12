@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>5280 Denver Plumbing Solutions</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="logo.png" alt="5280 Denver Plumbing Logo"/>
+      <h1>5280 Denver<br><span>Plumbing Solutions</span></h1>
+    </div>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">About</a>
+      <a href="#">Services</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <div class="hero-text">
+      <h2>Your Trusted<br>Local Plumber</h2>
+      <p>At 5280 Denver Plumbing Solutions, we provide professional and reliable plumbing services throughout the Denver metro area. From leaky faucets to emergency repairs, we’ve got you covered.</p>
+      <a href="#" class="button">Get a Free Quote</a>
+    </div>
+    <div class="hero-img">
+      <img src="mascot.png" alt="Plumbing Raccoon Mascot"/>
+    </div>
+  </section>
+
+  <section class="info">
+    <div>
+      <h3>Our Services</h3>
+      <p>We offer a wide range of plumbing solutions for both residential and commercial clients.</p>
+    </div>
+    <div>
+      <h3>About Us</h3>
+      <p>Learn more about our experienced team of licensed and insured plumbers.</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>Contact us: info@5280denverplumbing.com | (555) 528-0528</p>
+  </footer>
+</body>
+</html>
+
